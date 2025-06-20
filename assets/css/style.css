@@ -590,4 +590,15 @@ header .nav-item.lang .nav-link:hover::after {
     width: 80%;
     text-align: center;
   }
+
+  .hero-content {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .hero-content h2 {
+    text-align: center;
+  }
+
 }
